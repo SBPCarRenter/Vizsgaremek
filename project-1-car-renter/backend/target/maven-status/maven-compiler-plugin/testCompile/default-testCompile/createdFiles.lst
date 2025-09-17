@@ -1,0 +1,17 @@
+com\exam\carrenter\e2e\pages\NewRentalPage.class
+com\exam\carrenter\e2e\pages\CarListPage.class
+com\exam\carrenter\e2e\pages\AdminCarsPage.class
+com\exam\carrenter\controller\CarControllerTest.class
+com\exam\carrenter\model\RentalRepositoryTest.class
+com\exam\carrenter\e2e\pages\LoginPage.class
+com\exam\carrenter\TestSecurityConfig.class
+com\exam\carrenter\controller\AuthControllerTest.class
+com\exam\carrenter\e2e\AuthFlowIT.class
+com\exam\carrenter\e2e\RouteProtectionIT.class
+com\exam\carrenter\e2e\BaseTest.class
+com\exam\carrenter\e2e\pages\RegistrationPage.class
+com\exam\carrenter\controller\RentalControllerTest.class
+com\exam\carrenter\e2e\ApiE2ETest.class
+com\exam\carrenter\e2e\RentalFlowIT.class
+com\exam\carrenter\e2e\pages\NavBar.class
+com\exam\carrenter\e2e\AdminCarsIT.class
